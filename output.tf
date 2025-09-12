@@ -22,3 +22,6 @@ output "montrealfastfoodrestaurants2" {
 output "montrealfastfoodrestaurants3" {
   value=var.fastfood-montreal3
 }
+output "Millenium2000s" {
+  value=var.millenium
+}
