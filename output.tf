@@ -7,3 +7,6 @@ output "lastouput" {
 output "year-output" {
   value=var.year-arrival
 }
+output "Montreal-restaurants" {
+  value=var.restaurant-montreal
+}
