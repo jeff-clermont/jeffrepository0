@@ -7,7 +7,7 @@ output "lastname" {
 output "yearofarrival" {
   value=var.year-arrival
 }
-output "montrealrfancyestaurant1" {
+output "montrealrfancyrestaurant1" {
   value=var.fancy-restaurant1
 }
 output "montrealfancyrestaurants2" {
