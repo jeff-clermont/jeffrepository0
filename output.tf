@@ -25,6 +25,6 @@ output "montrealfastfoodrestaurants3" {
 output "Millenium2000s" {
   value=var.millenium
 }
-output "torf" {
+output "booleanoutput" {
   value=var.truefalse
 }
