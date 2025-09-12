@@ -18,3 +18,6 @@ variable "lastname"{
    type =string
    default="Clermont"
 }
+variable "year-arrival"{
+   type =number
+   default="2025"
