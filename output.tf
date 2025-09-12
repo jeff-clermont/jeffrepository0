@@ -2,5 +2,5 @@ output "firstouput" {
   value=var.firstname
 }
 output "lastouput" {
-  value=var.lirstname
+  value=var.lasttname
 }
