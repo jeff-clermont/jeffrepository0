@@ -1,24 +1,24 @@
-output "firstouput" {
+output "firstname" {
   value=var.firstname
 }
-output "lastouput" {
+output "lastname" {
   value=var.lastname
 }
-output "year-output" {
+output "yearofarrival" {
   value=var.year-arrival
 }
-output "montrealrestaurants1" {
+output "montrealrfancyestaurant1" {
   value=var.restaurant-montreal1
 }
-output "montrealrestaurants2" {
+output "montrealfancyrestaurants2" {
   value=var.restaurant-montreal2
 }
-output "montrealrestaurants3" {
+output "montrealfastfoodrestaurants1" {
   value=var.restaurant-montreal3
 }
-output "montrealrestaurants4" {
+output "montrealfastfoodrestaurants2" {
   value=var.restaurant-montreal4
 }
-output "montrealrestaurants5" {
+output "montrealfastfoodrestaurants3" {
   value=var.restaurant-montreal5
 }
