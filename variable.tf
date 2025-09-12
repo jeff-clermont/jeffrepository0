@@ -21,3 +21,4 @@ variable "lastname"{
 variable "year-arrival"{
    type =number
    default="2025"
+}
