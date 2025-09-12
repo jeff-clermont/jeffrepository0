@@ -42,3 +42,7 @@ variable "fastfood-montreal3"{
    type =string
    default="Burger-King"
 }
+variable "Millenium"{
+   type =number
+   default="2000"
+}
