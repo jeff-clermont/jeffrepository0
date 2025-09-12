@@ -2,7 +2,7 @@ output "firstouput" {
   value=var.firstname
 }
 output "lastouput" {
-  value=var.lasttname
+  value=var.lastname
 }
 output "year-output" {
   value=var.year-arrival
