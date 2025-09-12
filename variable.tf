@@ -22,23 +22,23 @@ variable "year-arrival"{
    type =number
    default="2025"
 }
-variable "restaurant-montreal"{
+variable "restaurant-montreal1"{
    type =string
    default="Red-lobster"
 }
-variable "restaurant-montreal"{
+variable "restaurant-montreal2"{
    type =string
    default="TGI-FRIDAY"
 }
-variable "restaurant-montreal"{
+variable "restaurant-montreal3"{
    type =string
    default="wendys"
 }
-variable "restaurant-montreal"{
+variable "restaurant-montreal4"{
    type =string
    default="McDonald"
 }
-variable "restaurant-montreal"{
+variable "restaurant-montreal5"{
    type =string
    default="Burger-King"
 }
