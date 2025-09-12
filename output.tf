@@ -1,6 +1,6 @@
 output "firstouput" {
   value=var.firstname
 }
-output "firstouput" {
+output "lastouput" {
   value=var.lirstname
 }
