@@ -7,18 +7,18 @@ output "lastouput" {
 output "year-output" {
   value=var.year-arrival
 }
-output "Montreal-restaurants" {
+output "montreal-restaurants1" {
   value=var.restaurant-montreal1
 }
-output "Montreal-restaurants" {
+output "montreal-restaurants2" {
   value=var.restaurant-montreal2
 }
-output "Montreal-restaurants" {
+output "montreal-restaurants3" {
   value=var.restaurant-montreal3
 }
-output "Montreal-restaurants" {
+output "montreal-restaurants4" {
   value=var.restaurant-montreal4
 }
-output "Montreal-restaurants" {
+output "montreal-restaurants5" {
   value=var.restaurant-montreal5
 }
