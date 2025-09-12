@@ -34,7 +34,7 @@ variable "fastfood-montreal1"{
    type =string
    default="Wendys"
 }
-variable "Fastfood-montreal2"{
+variable "fastfood-montreal2"{
    type =string
    default="McDonald"
 }
