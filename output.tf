@@ -13,7 +13,7 @@ output "montrealrfancyestaurant1" {
 output "montrealfancyrestaurants2" {
   value=var.fancy-restaurant2
 }
-output "montrealfancyrestaurants2" {
+output "montrealfastfoodrestaurants1" {
   value=var.fastfood-montreal1
 }
 output "montrealfastfoodrestaurants2" {
