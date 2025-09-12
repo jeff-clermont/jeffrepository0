@@ -4,6 +4,6 @@ output "firstouput" {
 output "lastouput" {
   value=var.lasttname
 }
-output "yeararrival" {
-  value=var.lastname
+output "year-output" {
+  value=var.year-arrival
 }
