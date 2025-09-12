@@ -10,3 +10,15 @@ output "year-output" {
 output "Montreal-restaurants" {
   value=var.restaurant-montreal
 }
+output "Montreal-restaurants" {
+  value=var.restaurant-montreal
+}
+output "Montreal-restaurants" {
+  value=var.restaurant-montreal
+}
+output "Montreal-restaurants" {
+  value=var.restaurant-montreal
+}
+output "Montreal-restaurants" {
+  value=var.restaurant-montreal
+}
