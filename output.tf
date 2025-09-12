@@ -1,3 +1,3 @@
 output "firstouput" {
-value =var.firstname
+  value=var.firstname
 }
