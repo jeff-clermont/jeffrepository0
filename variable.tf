@@ -50,3 +50,6 @@ variable "truefalse"{
    type =bool
    default="true"
 }
+variable "listofcars"{
+   type =list(string)
+   default=["Benz","BMW","AUDI"]
