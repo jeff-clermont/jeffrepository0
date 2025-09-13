@@ -53,3 +53,4 @@ variable "truefalse"{
 variable "listofcars"{
    type =list(string)
    default=["Benz","BMW","AUDI"]
+}
