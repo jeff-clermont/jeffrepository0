@@ -28,3 +28,7 @@ output "Millenium2000s" {
 output "booleanoutput" {
   value=var.truefalse
 }
+
+output "Luxurycars" {
+  value=var.listofcars
+}
